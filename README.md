@@ -1,4 +1,9 @@
 ## Hi there 👋
+##  Alican Cetin
+## New User
+## I studied Mathematics
+## I live in Germany
+
 
 <!--
 **Alican1994/Alican1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
